@@ -1,1 +1,1 @@
-Thioas file is from dir1
+This file is from dir1
